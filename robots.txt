@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /apply/
+Disallow: /apply
+
+Sitemap: https://applyseva.in/sitemap.xml
